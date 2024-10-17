@@ -6,7 +6,6 @@
 .header__logo{
     flex: 1;
     display: flex;
-    background-color: red;
     position: relative;
     padding: 20px;
 }
