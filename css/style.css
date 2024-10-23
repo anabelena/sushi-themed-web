@@ -46,6 +46,19 @@ a {
   color: inherit;
 }
 
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
 .sushi__subtitle {
   font-size: 18px;
   font-weight: 400;
