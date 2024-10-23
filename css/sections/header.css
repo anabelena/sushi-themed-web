@@ -60,6 +60,6 @@
 .header__menu-mobile {
   display: none;
   gap: 20px;
-
+  border: 1px solid red;
   position: relative;
 }
