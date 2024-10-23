@@ -30,8 +30,16 @@
   }
 
   .header__logo h4{
+
     padding-left: 30px;
-    color: #fff;
+    
+    font-size: 24px;
+    font-weight: 700;
+    font-family: var(--playfair-display);
+    color: var(--color-white);
+    text-transform: uppercase;
+    opacity: 0.8;
+    
   }
 
 
