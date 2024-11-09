@@ -1,3 +1,7 @@
+:root{
+    --color-button:rgb(31, 30, 49,1);
+}
+
 .subscription{
     padding: 64px;
 
@@ -46,4 +50,43 @@
 
     border: 1px solid rgba(255,255,255, 0.5);
     border-radius: 46px;
+}
+
+.subscription__form input{
+    flex: 1;
+
+    font-size: 16px;
+    font-weight: 400;
+    font-family: var(--plus-jakarta-sans);
+
+    color:var(--color-white);
+    opacity: 0.5;
+
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+
+.subscription__form input::placeholder{
+    color:var(--color-white);
+    opacity: 0.5;
+}
+
+.subscription__form button{
+
+    min-width: 180px;
+    padding: 20px;
+
+    font-size: 16px;
+    font-weight: 600;
+    font-family: var(--plus-jakarta-sans);
+    color: var(--color-white);
+
+    background-color: var(--color-button);
+   
+    
+    border-radius: 46px;
+    outline: none;
+    border: none;
+    cursor: pointer;
 }
