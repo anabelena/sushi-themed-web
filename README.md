@@ -17,7 +17,10 @@ Welcome to **Sushiman**, a Japanese food delivery website offering a variety of 
 1. Clone the repository:
    ```bash
    git clone https://github.com/anabelena/sushiman.git
+   
 2. Install dependencies and start the development server:
+
+   ```bash
    npm install
    npm run dev
 
