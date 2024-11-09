@@ -23,7 +23,7 @@ Welcome to **Sushiman**, a Japanese food delivery website offering a variety of 
 
 ## Deployment
 
-This project is deployed on GitHub Pages and can be accessed at 
+This project is deployed on GitHub Pages and can be accessed at https://anabelena.github.io/sushi-themed-web/
 
 
 Feel free to contribute and enhance the Sushiman experience! 🍣
