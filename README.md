@@ -35,3 +35,7 @@ Feel free to contribute and enhance the Sushiman experience! 🍣
 
 ## Screenshot
 
+![Hero Section](design/Hero-section.jpeg)
+![Popular Food Section](design/Popular-food-section.jpeg)
+![Trending Section](design/Trending-section.jpeg)
+![Footer Section](design/Footer-section.jpeg)
